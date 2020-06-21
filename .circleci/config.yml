@@ -13,4 +13,4 @@ workflows:
           no-output-timeout: 20m
           region: AWS_REGION_ENV_VAR_NAME
           repo: ecs-cicd-nginx
-          tag: 'latest,myECRRepoTag'
+          tag: 'latest'
